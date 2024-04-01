@@ -4,7 +4,7 @@ Este repositório contém uma coleção de exercícios de matrizes em Java.
 
 ## Sobre os Exercícios
 
-Estes exercícios foram criados como parte do processo de aprendizagem sobre matrizes em Java. Eles abordam uma variedade de conceitos, incluindo:
+Estes exercícios foram resolvidos como parte do processo de aprendizagem sobre matrizes em Java. Eles abordam uma variedade de conceitos, incluindo:
 
 - Declaração e inicialização de matrizes.
 - Acesso a elementos individuais em uma matriz.
