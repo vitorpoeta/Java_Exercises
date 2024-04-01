@@ -1,6 +1,6 @@
 # Manipulação de Data e Hora em Java
 
-Este repositório contém exemplos e recursos relacionados à manipulação de datas e horas em Java. Abaixo estão detalhadas algumas funcionalidades importantes.
+Este diretório contém exemplos e recursos relacionados à manipulação de datas e horas em Java. Abaixo estão detalhadas algumas funcionalidades importantes.
 
 ## Funcionalidades Demonstradas
 
