@@ -1,6 +1,6 @@
 # Exercícios de Matrizes em Java
 
-Este repositório contém uma coleção de exercícios de matrizes em Java.
+Este diretório contém uma coleção de exercícios de matrizes em Java.
 
 ## Sobre os Exercícios
 
