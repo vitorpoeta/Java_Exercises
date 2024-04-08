@@ -27,5 +27,7 @@ public class Main4 {
 		}
 
 		System.out.println("Bem-vindo à família, " + p1.getNome() + " " + p1.getSobrenome());
+
+		sc.close();
 	}
 }
